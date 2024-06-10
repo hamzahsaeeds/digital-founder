@@ -2,10 +2,10 @@ export default function Section1() {
   return (
     <div className="w-full h-screen main-background">
       <div className="flex flex-col justify-center items-center text-center h-full space-y-12">
-        <div className="font-extrabold text-7xl leading-[80px]">
+        <span className="font-extrabold text-7xl">
           Share your idea! <br />
           we will invest in your future
-        </div>
+        </span>
         <div className="w-2/5">
           <span className="font-normal text-xl text-center">
             Have a groundbreaking idea but lack the funds to bring it to life?
@@ -14,7 +14,7 @@ export default function Section1() {
           </span>
         </div>
         <div>
-          <button className="flex items-center text-gray-800 bg-violet-50">
+          <button className="flex items-center font-normal text-base text-gray-800 bg-violet-50">
             Lets Partner
             <img src="right_arrow.svg" alt="right arrow" />
           </button>
