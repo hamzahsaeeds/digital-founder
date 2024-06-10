@@ -1,10 +1,10 @@
 export default function Section1() {
   return (
-    <div className="w-full h-screen main-background">
+    <div className="w-full h-screen main-background pt-36">
       <div className="flex flex-col justify-center items-center text-center h-full space-y-12">
         <span className="font-extrabold text-7xl">
           Share your idea! <br />
-          we will invest in your future
+          we`ll invest in your future
         </span>
         <div className="w-1/2">
           <span className="font-normal text-xl text-center">
