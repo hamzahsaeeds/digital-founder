@@ -6,7 +6,7 @@ export default function Section1() {
           Share your idea! <br />
           we will invest in your future
         </span>
-        <div className="w-2/5">
+        <div className="w-1/2">
           <span className="font-normal text-xl text-center">
             Have a groundbreaking idea but lack the funds to bring it to life?
             No worries! At Digital Founder, we invest in your vision, putting
