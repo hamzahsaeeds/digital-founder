@@ -14,7 +14,7 @@ export default function RocketPath() {
       <img
         src="ellipse_12.svg"
         alt="ellipse 180"
-        className="absolute left-[120px] xl:w-80vw z-10 object-cover opacity-20"
+        className="absolute left-auto lg:h-[500px] xl:h-[570px] 2xl:h-[900px] z-10 object-cover opacity-20"
       />
       <img
         src="rocket_coming_down.svg"

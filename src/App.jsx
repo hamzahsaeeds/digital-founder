@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <MainPage />
-      <RocketPath />
+      <div className='hidden lg:block'>
+        <RocketPath />
+      </div>
     </>
   )
 }
